@@ -5,14 +5,12 @@ An end-to-end customer behaviour analysis project using Python, Pandas and NumPy
 
 This project showcases a complete real-world data analytics workflow — from raw data ingestion to executive-ready insights. I used Python for exploration and cleaning, SQL Server for deep analysis, Power BI for interactive dashboards, and an attractive presentation to present findings through a professional report.
 
-The goal: turn raw data into actionable business decisions.
-
 ## Tech Stack
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-MySQL
-Power BI
-Google Colab
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- MySQL
+- Power BI
+- Google Colab
 
 ## What I Did
 
