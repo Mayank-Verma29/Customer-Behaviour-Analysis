@@ -37,3 +37,12 @@ This project showcases a complete real-world data analytics workflow — from ra
 4) Evaluated discount impact
 
 5) Recommended targeted marketing strategies
+
+6) Customers aged 25–35 contribute 40% revenue
+
+7) Repeat customers have 2x higher purchase rate
+ 
+## Recommendations
+- Target high-value segments with ads
+  
+- Improve retention strategies
