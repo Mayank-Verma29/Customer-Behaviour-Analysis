@@ -1,20 +1,20 @@
 # Customer-Behaviour-Analysis
 An end-to-end customer behaviour analysis project using Python, Pandas and NumPy, Includes data cleaning, exploratory data analysis (EDA), visualisations, and actionable insights for business decision-making.
 
-1) Overview
+## Overview
 
 This project showcases a complete real-world data analytics workflow — from raw data ingestion to executive-ready insights. I used Python for exploration and cleaning, SQL Server for deep analysis, Power BI for interactive dashboards, and an attractive presentation to present findings through a professional report.
 
 The goal: turn raw data into actionable business decisions.
 
-2) Tech Stack
+## Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL Server
+MySQL
 Power BI
 Google Colab
 
-3) What I Did
+## What I Did
 
 a) Cleaned and prepared messy real-world data
 b) Performed EDA to uncover trends and patterns
@@ -23,14 +23,19 @@ d) Built an interactive Power BI dashboard
 e) Created a business report & executive PPT
 f) Delivered data-driven recommendations
 
-4) Key Insights
+## Findings
+- Identified high-value customer segments
+- Found purchase patterns based on region/time
+- Detected customer retention trends
 
-Identified high-value customer segments
+## Key Insights
 
-Highlighted top-selling products
+1) Identified high-value customer segments
 
-Analysed delivery performance
+2) Highlighted top-selling products
 
-Evaluated discount impact
+3) Analysed delivery performance
 
-Recommended targeted marketing strategies
+4) Evaluated discount impact
+
+5) Recommended targeted marketing strategies
