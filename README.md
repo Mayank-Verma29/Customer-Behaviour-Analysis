@@ -14,12 +14,12 @@ This project showcases a complete real-world data analytics workflow — from ra
 
 ## What I Did
 
-a) Cleaned and prepared messy real-world data
-b) Performed EDA to uncover trends and patterns
-c) Wrote analytical SQL queries
-d) Built an interactive Power BI dashboard
-e) Created a business report & executive PPT
-f) Delivered data-driven recommendations
+-  Cleaned and prepared messy real-world data
+-  Performed EDA to uncover trends and patterns
+-  Wrote analytical SQL queries
+-  Built an interactive Power BI dashboard
+- Created a business report & executive PPT
+- Delivered data-driven recommendations
 
 ## Findings
 - Identified high-value customer segments
