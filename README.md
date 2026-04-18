@@ -1,9 +1,13 @@
 # Customer-Behaviour-Analysis
 An end-to-end customer behaviour analysis project using Python, Pandas and NumPy, Includes data cleaning, exploratory data analysis (EDA), visualisations, and actionable insights for business decision-making.
 
+---
+
 ## Overview
 
 This project showcases a complete real-world data analytics workflow — from raw data ingestion to executive-ready insights. I used Python for exploration and cleaning, SQL Server for deep analysis, Power BI for interactive dashboards, and an attractive presentation to present findings through a professional report.
+
+---
 
 ## Tech Stack
 
@@ -11,6 +15,8 @@ This project showcases a complete real-world data analytics workflow — from ra
 - MySQL
 - Power BI
 - Google Colab
+
+---
 
 ## What I Did
 
@@ -20,6 +26,8 @@ This project showcases a complete real-world data analytics workflow — from ra
 -  Built an interactive Power BI dashboard
 - Created a business report & executive PPT
 - Delivered data-driven recommendations
+
+---
 
 ## Key Findings
 
@@ -33,11 +41,15 @@ This project showcases a complete real-world data analytics workflow — from ra
 
 5) Recommended targeted marketing strategies
 
+---
+
 ## Key Insights
 
 * Customers aged 25–35 contribute 40% revenue
 
 * Repeat customers have 2x higher purchase rate
+
+---
  
 ## Recommendations
 
