@@ -44,3 +44,5 @@ This project showcases a complete real-world data analytics workflow — from ra
 - Target high-value segments with ads
   
 - Improve retention strategies
+
+<img width="758" height="483" alt="image" src="https://github.com/user-attachments/assets/4a19a5bd-9a55-400c-a8a4-bcd1ee4416ff" />
