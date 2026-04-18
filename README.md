@@ -45,4 +45,5 @@ This project showcases a complete real-world data analytics workflow — from ra
   
 - Improve retention strategies
 
-<img width="758" height="483" alt="image" src="https://github.com/user-attachments/assets/4a19a5bd-9a55-400c-a8a4-bcd1ee4416ff" />
+<img width="750" height="479" alt="image" src="https://github.com/user-attachments/assets/74204f75-d033-4703-a9d7-fb066e3f7369" />
+
