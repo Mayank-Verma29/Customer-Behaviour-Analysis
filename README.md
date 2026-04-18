@@ -21,11 +21,6 @@ This project showcases a complete real-world data analytics workflow — from ra
 - Created a business report & executive PPT
 - Delivered data-driven recommendations
 
-## Findings
-- Identified high-value customer segments
-- Found purchase patterns based on region/time
-- Detected customer retention trends
-
 ## Key Findings
 
 1) Identified high-value customer segments
@@ -39,11 +34,13 @@ This project showcases a complete real-world data analytics workflow — from ra
 5) Recommended targeted marketing strategies
 
 ## Key Insights
+
 * Customers aged 25–35 contribute 40% revenue
 
 * Repeat customers have 2x higher purchase rate
  
 ## Recommendations
+
 - Target high-value segments with ads
   
 - Improve retention strategies
